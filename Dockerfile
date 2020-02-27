@@ -1,6 +1,6 @@
 FROM uphold/litecoin-core:0.17.1
 
-EXPOSE 19332
+EXPOSE 19443
 
 ADD init-node.sh /tmp
 RUN chmod 777 /tmp/init-node.sh

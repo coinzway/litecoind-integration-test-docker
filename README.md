@@ -2,7 +2,7 @@
 
 # Running
 ```
-docker run -p 19332:19332 --rm coinzway/litecoind-integration-test-docker:latest
+docker run -p 19443:19443 --rm coinzway/litecoind-integration-test-docker:latest
 ```
 
 # Building
